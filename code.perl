@@ -5,7 +5,7 @@
 #
 # Usage: perl lambda.pl [treefile] [fastafile]
 #
-# Distributed under the same license as DAWG
+# Distributed under the same license as DAWG 
 #
 
 use strict;
